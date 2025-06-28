@@ -49,4 +49,6 @@ Houdini 20.5+
 
 Date: 28/06/2025
 
+On Gumbroad: https://marcoslopez1.gumroad.com/l/copsquickexport
+
 www.linkedin.com/in/marcoslópez-garcía
