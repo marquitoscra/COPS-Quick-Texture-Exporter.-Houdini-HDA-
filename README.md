@@ -1,4 +1,4 @@
-Simple Copernicus HDA for quick exporting textures.
+Simple Copernicus HDA for quick exporting textures. PBR Export.
 
 One-Click Export: Export multiple texture maps instantly from Copernicus.
 
