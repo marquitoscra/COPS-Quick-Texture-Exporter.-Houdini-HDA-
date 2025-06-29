@@ -33,7 +33,7 @@ Connect the texture layers you want to export
 
 Select export path, name, resolution and format
 
-
+You can change the names in the node for exporting other layers like metalness or opacity; simply replace the word 'color' with the name you want
 
 Hit Export - Done!
 
